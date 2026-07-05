@@ -1,3 +1,5 @@
+! [Initial](https://github.com/spacehamster0429/spacehamster0429/blob/main/img/serika.webp)
+
 ## Hi there 👋
 
 - 학생입니다.
