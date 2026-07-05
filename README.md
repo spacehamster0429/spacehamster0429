@@ -6,8 +6,9 @@
 ## 📚 Learning
 
 - Python — studying
-- HTML / CSS / JavaScript — planned
-- Luau — planned
+- JavaScript — Maybe Someday
+- HTML / CSS — Maybe Someday
+- Luau — Maybe Someday
 
 ## 🚀 Projects
 
@@ -17,4 +18,4 @@
 
 ## 🥧 Self-hosting
 
-Discord bots, web apps, and a tiny RTS running on one Raspberry Pi 5.
+디스코드 봇들과 웹 서비스, 작은 RTS 게임까지 RPI5 한 대에서 굴리는 중입니다.
