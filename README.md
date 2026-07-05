@@ -16,6 +16,7 @@
 
 - 🍱 [School Meal Bot](https://github.com/spacehamster0429/school-meal-bot)
 - 👋 [Greeting Cookiebot](https://github.com/spacehamster0429/pure-greeting-cookiebot)
+- 📄 [ChronoNote](https://note.serika.duckdns.org)
 - ⚔️ [TinyCraft](https://github.com/spacehamster0429/tinycraft)
 
 ## 🥧 Self-hosting
