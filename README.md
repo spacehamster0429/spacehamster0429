@@ -12,6 +12,7 @@
 - JavaScript — Maybe Someday
 - HTML / CSS — Maybe Someday
 - Luau — Maybe Someday
+- C / C++ — Maybe Someday
 
 ## 🚀 Projects
 
